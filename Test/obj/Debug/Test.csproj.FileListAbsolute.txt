@@ -1,0 +1,5 @@
+D:\Projects\DSPC\Test\bin\Debug\Test.exe
+D:\Projects\DSPC\Test\bin\Debug\Test.pdb
+D:\Projects\DSPC\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\Projects\DSPC\Test\obj\Debug\Test.exe
+D:\Projects\DSPC\Test\obj\Debug\Test.pdb

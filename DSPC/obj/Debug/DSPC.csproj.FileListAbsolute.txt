@@ -1,0 +1,9 @@
+D:\Projects\DSPC\DSPC\obj\Debug\DSPC.csprojAssemblyReference.cache
+D:\Projects\DSPC\DSPC\obj\Debug\DSPC.Form1.resources
+D:\Projects\DSPC\DSPC\obj\Debug\DSPC.Properties.Resources.resources
+D:\Projects\DSPC\DSPC\obj\Debug\DSPC.csproj.GenerateResource.cache
+D:\Projects\DSPC\DSPC\obj\Debug\DSPC.csproj.CoreCompileInputs.cache
+D:\Projects\DSPC\DSPC\bin\Debug\DSPC.exe
+D:\Projects\DSPC\DSPC\bin\Debug\DSPC.pdb
+D:\Projects\DSPC\DSPC\obj\Debug\DSPC.exe
+D:\Projects\DSPC\DSPC\obj\Debug\DSPC.pdb

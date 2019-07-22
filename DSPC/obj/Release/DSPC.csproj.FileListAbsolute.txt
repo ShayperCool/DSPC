@@ -1,0 +1,8 @@
+D:\Projects\DSPC\DSPC\bin\Release\DSPC.exe
+D:\Projects\DSPC\DSPC\bin\Release\DSPC.pdb
+D:\Projects\DSPC\DSPC\obj\Release\DSPC.Form1.resources
+D:\Projects\DSPC\DSPC\obj\Release\DSPC.Properties.Resources.resources
+D:\Projects\DSPC\DSPC\obj\Release\DSPC.csproj.GenerateResource.cache
+D:\Projects\DSPC\DSPC\obj\Release\DSPC.csproj.CoreCompileInputs.cache
+D:\Projects\DSPC\DSPC\obj\Release\DSPC.exe
+D:\Projects\DSPC\DSPC\obj\Release\DSPC.pdb
